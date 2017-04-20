@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Uebungsaufgabe 1
+
 ---
 
 Uebungsaufgabe 1
