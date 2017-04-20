@@ -3,3 +3,21 @@ https://www.w3schools.com/html/
 
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default 
 --> "Tryit Editor"
+
+---------------------
+[im git Hauptordner] 
+
+"git status"
+	sieht nach, ob die eigene git Version und die im Netz übereinstimmen
+
+"git pull" 
+	Änderungen runterladen
+
+"git add --all" + "git commit -m "text""
+	lokale Änderungen mit der Anmerkung "text" zum hochladen vormerken
+
+"git push -u origin master"
+	vorgemerkte Änderungen hochladen
+
+"bundle exec jekyll serve" 
+	baut die aktuelle Version der Webseite auf "http://127.0.0.1:4000/"
