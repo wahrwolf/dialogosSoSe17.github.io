@@ -1,8 +1,23 @@
-https://www.w3schools.com/html/ 
+﻿https://www.w3schools.com/html/ 
 --> HTML5 Tutorial
+
+https://www.w3schools.com/html/html_links.asp
+--> Links (extern als auch intern)
 
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default 
 --> "Tryit Editor"
+
+
+https://blog.ghost.org/markdown/   (anscheinend kann man HTML-Code in Markdown einbetten)
+
+Learn HTML in 12min + andere Videos des selben Youtubers (learn more HTML in 12min, learn CSS in 12min[falls wir mal eigenes Template machen])
+https://www.youtube.com/watch?v=bWPMSSsVdPk
+
+Intro to Jekyll  (nicht alles für uns relevant, aber evtl. die Includes)
+https://www.youtube.com/watch?v=O7NBEFmA7yA
+
+HTML ... Linking Pages together 
+https://www.youtube.com/watch?v=BNXWQONM9PA
 
 ---------------------
 [im git Hauptordner] 
