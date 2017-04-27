@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=bWPMSSsVdPk
 Intro to Jekyll  (nicht alles für uns relevant, aber evtl. die Includes)
 https://www.youtube.com/watch?v=O7NBEFmA7yA
 
-HTML ... Linking Pages together 
+HTML ... Linking Pages together (nicht mehr nötig; Linken geht doch mit Markdown)
 https://www.youtube.com/watch?v=BNXWQONM9PA
 
 ---------------------
