@@ -6,4 +6,4 @@
 layout: home
 ---
 
-Hier kann man was schreiben :)
+Hier kann man was schreiben :) BÄÄÖÖÖÖÖÖ funktioniert
