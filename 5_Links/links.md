@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-permalink: /links/
+
 ---
 
 Auf dieser Seite werden sich Links befinden.

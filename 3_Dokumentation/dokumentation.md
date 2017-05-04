@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dokumentation
-permalink: /dokumentation/
+
 ---
 
 
