@@ -1,4 +1,8 @@
-﻿https://www.w3schools.com/html/ 
+﻿https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+--> Header, Footer etc. überschreiben
+
+
+https://www.w3schools.com/html/ 
 --> HTML5 Tutorial
 
 https://www.w3schools.com/html/html_links.asp
