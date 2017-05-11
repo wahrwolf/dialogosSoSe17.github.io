@@ -10,28 +10,32 @@ Seite in Arbeit...
 Dieses Tutorial bietet einen ersten Einstieg in DialogOS. 
 Hier koennt ihr lernen, wie man es startet, einen Einblick in die Oberflaeche bekommen und euren ersten Dialog erstellen. 
 
+[Erste Schritte](tutorials/ersteschritte.html)
 
-[Tutorialaufgabe 1](Tutorialaufgabe1.html)
+
+...
+ 
+[Sprachsynthese](tutorials/sprachsynthese.html)
 
 
 ...
 
-[Tutorialaufgabe 2](Tutorialaufgabe2.html)
+[Witze und Fragen](tutorials/witzeundfragen.html)
 
 
 ...
 
-[Tutorialaufgabe 3](Tutorialaufgabe3.html)
+[rechnen](tutorials/rechnen.html)
 
 
 ...
 
-[Tutorialaufgabe 4](Tutorialaufgabe4.html) 
+[Vokabeltests](tutorials/vokabeltest.html) 
 
 
 ...
 
-[Tutorialaufgabe 5](Tutorialaufgabe5.html)
+[externe Programme](tutorials/extprogramme.html)
 
 
 
