@@ -10,6 +10,11 @@ Seite in Arbeit...
 Dieses Tutorial bietet einen ersten Einstieg in DialogOS. 
 Hier koennt ihr lernen, wie man es startet, einen Einblick in die Oberflaeche bekommen und euren ersten Dialog erstellen. 
 
+[Installation](download.html)
+
+
+...
+ 
 [Erste Schritte](tutorials/ersteschritte.html)
 
 
@@ -26,11 +31,6 @@ Hier koennt ihr lernen, wie man es startet, einen Einblick in die Oberflaeche be
 ...
 
 [rechnen](tutorials/rechnen.html)
-
-
-...
-
-[Vokabeltests](tutorials/vokabeltest.html) 
 
 
 ...

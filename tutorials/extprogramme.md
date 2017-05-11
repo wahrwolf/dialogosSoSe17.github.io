@@ -1,9 +1,9 @@
 ---
 layout: page
 ---
-# Tutorialaufgabe 5
+# Externe Programme
 ---
-[Erste Schritte](ersteschritte.html) &nbsp;&nbsp; [Sprachsynthese](sprachsynthese.html) &nbsp;&nbsp; [Witze und Fragen](witzeundfragen.html) &nbsp;&nbsp; [rechnen](rechnen.html) &nbsp;&nbsp; [Vokabeltests](vokabeltest.html) &nbsp;&nbsp; externe Programme
+[Installation](/download.html) &nbsp;&nbsp; [Erste Schritte](ersteschritte.html) &nbsp;&nbsp; [Sprachsynthese](sprachsynthese.html) &nbsp;&nbsp; [Witze und Fragen](witzeundfragen.html) &nbsp;&nbsp; [Vokabeltests](vokabeltest.html) &nbsp;&nbsp; externe Programme
 
 ---
 &nbsp;

@@ -3,7 +3,7 @@ layout: page
 ---
 # Sprachsynthese kennenlernen
 ---
-[Erste Schritte](ersteschritte.html) &nbsp;&nbsp; Sprachsynthese &nbsp;&nbsp; [Witze und Fragen](witzeundfragen.html) &nbsp;&nbsp; [rechnen](rechnen.html) &nbsp;&nbsp; [Vokabeltests](vokabeltest.html) &nbsp;&nbsp; [externe Programme](extprogramme.html)
+[Installation](/download.html) &nbsp;&nbsp; [Erste Schritte](ersteschritte.html) &nbsp;&nbsp; Sprachsynthese &nbsp;&nbsp; [Witze und Fragen](witzeundfragen.html) &nbsp;&nbsp; [Vokabeltests](vokabeltest.html) &nbsp;&nbsp; [externe Programme](extprogramme.html)
 
 ---
 &nbsp;
