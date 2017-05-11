@@ -11,6 +11,7 @@ layout: page
 
 ### DialogOS starten
 TODO
+![alt Text](/pictures/DialogOS_startseite.png)
 
 ### Speichern
 TODO
