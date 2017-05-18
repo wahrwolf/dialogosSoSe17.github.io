@@ -7,6 +7,7 @@ title: Tutorials
 
 ---
 &nbsp;
+
 Auf dieser Seite befinden sich Tutorialaufgabe, die dabei helfen zu verstehen wie DialogOS funktioniert und was man damit machen kann.
 Seite in Arbeit...
 
