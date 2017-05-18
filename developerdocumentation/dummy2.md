@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-# Dokumentation
+# Developer-Documentation
 ---
 [Dummy-Seite 1](dummy1.html) &nbsp;&nbsp; Dummy-Seite 2 &nbsp;&nbsp; ...
 
@@ -10,4 +10,4 @@ layout: page
 
 ## Dummy-Seite 2
 
-TODO
+TODO [in english]
