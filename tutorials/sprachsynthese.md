@@ -1,22 +1,40 @@
 ---
 layout: page
 ---
-# Sprachsynthese kennenlernen
+# Sprachsynthese
 ---
 [Installation](/download.html) &nbsp;&nbsp; [Erste Schritte](ersteschritte.html) &nbsp;&nbsp; Sprachsynthese &nbsp;&nbsp; [Spracherkennung](spracherkennung.html) &nbsp;&nbsp; [Grammatiken](grammatiken.html) &nbsp;&nbsp; [Externe Programme](extprogramme.html)
 
 ---
 &nbsp;
 
-Keine Sprachsynthese funktioniert jemals perfekt, jedenfalls nicht immer im ersten Anlauf. Hier probieren wir, was wie gut funktioniert und wie wir den störrischen Computer zur Mitarbeit bringen, nach dem Motto: was nicht passt wird passend gemacht!
+DialogOS enthält ein eingebautes Text-to-Speech-System, das es erlaubt, beliebige Texte vorzulesen. Der zu sprechende Text muss also -- in der Theorie -- nur eingetippt werden. Keine Sprachsynthese funktioniert jedoch jemals perfekt, jedenfalls nicht immer im ersten Anlauf. In diesem Tutorial soll darauf eingegangen werden, wie die Sprachsynthese beeinflusst werden kann.
 
-Zunächst testen wir die Sprachsynthese.
-1. Benutzt eine Sprachausgabe-Box die ihr mit Start- und Ende-Boxen verbindet. Probiert ein paar Wörter oder Sätze aus.
-2. Wie klingen die unterschiedlichen Stimmen?
-3. Was passiert, wenn ihr einen deutschen Satz mit englischer Stimme sprechen lasst? (oder umgekehrt)
-4. Habt ihr eine Idee, wie ihr "Ich höre am liebsten 'Take That' und 'Spice Girls'!" richtig aussprechen lassen könnt? Probiert es aus! (es gibt evtl. unterschiedliche Möglichkeiten)
-5. Manche Namen werden falsch ausgesprochen -- könnt ihr das beheben? Verhalten sich alle Stimmen (einer Sprache) gleich?
-6. Welche Abkürzungen funktionieren und welche nicht?
-7. Wie werden Zahlwörter ausgesprochen (1998, 1., 2., ...)? Kannst du dir einen Dialog vorstellen, wo du gern eine Andere Aussprache hättest?
-8. Was gibt es noch für Wörter, die falsch ausgesprochen werden?
-9. Könnt ihr die Sprechmelodie beeinflussen?
+Mit einem Doppelklick auf den zu ändernden Sprachausgabe-Knoten können die Eigenschaften desselben bearbeitet werden. Um die Eigenschaften der Sprachsynthese zu konfigurieren, wähle den Reiter *Sprachausgabe*... [TODO?]
+
+## Unterschiedliche Stimmen
+An jedem Sprachausgabe-Knoten kann gesondert ausgewählt werden, mit welcher Stimme der angegebene Text gesprochen werden soll. Dafür ... [TODO]
+
+Um die Stimme nicht für jeden Sprachausgabe-Knoten einzeln einstellen zu müssen, kann eine Standardstimme für den gesamten Dialog gesetzt werden. Wähle hierzu im Menü *Dialog* (oberhalb der Symbolleiste)  *Sprachausgabe* aus. Dann öffnet sich ein Fenster, in welchem die Standardstimme festgelegt werden kann. [Abbildung zu Dialogeinstellungen für die Sprachausgabe?] [TODO Beschreibung?] Alle nachfolgend erstellten Sprachausgabe-Knoten haben nun als Stimme die *Standardstimme*. Diese Einstellung kann natürlich an ausgewählten Knoten verändert werden.
+
+Auf die gleiche Art und Weise lässt sich eine Standardstimme für die Spracheingabe-Knoten bestimmen. Im Menü *Dialog* muss hierfür der Befehl *Spracherkennung* ausgewählt werden. [TODO]
+
+## (korrekte) Aussprache
+TODO
+
+### Sprache
+TODO
+
+### Abkürzungen
+TODO
+
+### Zahlen
+TODO
+
+## Sprechmelodie
+TODO
+
+## Laufzeitverhalten
+Standartmäßig wartet DialogOS, bis die aktuelle Sprachausgabe abgeschlossen ist, bevor der Dialog im nächsten Knoten fortgesetzt wird. Wird diese Option deaktiviert (*Warten bis die Ausgabe abgeschlossen ist*), wird der Dialog fortgesetzt, während das System noch spricht. So kann z.B. die Spracherkennung aktiviert werden (o.A.), während gleichzeitig noch die Sprachausgabe läuft.
+
+
