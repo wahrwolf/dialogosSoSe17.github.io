@@ -2,6 +2,11 @@
 layout: page
 title: Tutorials
 ---
+---
+[Installation](download.html) &nbsp;&nbsp; [Erste Schritte](tutorials/ersteschritte.html) &nbsp;&nbsp; [Sprachsynthese](tutorials/sprachsynthese.html) &nbsp;&nbsp; [Spracherkennung](tutorials/spracherkennung.html) &nbsp;&nbsp; [Grammatiken](tutorials/grammatiken.html) &nbsp;&nbsp; [externe Programme](tutorials/extprogramme.html)
+
+---
+&nbsp;
 Auf dieser Seite befinden sich Tutorialaufgabe, die dabei helfen zu verstehen wie DialogOS funktioniert und was man damit machen kann.
 Seite in Arbeit...
 
@@ -24,13 +29,13 @@ Hier koennt ihr lernen, wie man es startet, einen Einblick in die Oberflaeche be
 
 
 ...
-
-[Witze und Fragen](tutorials/witzeundfragen.html)
+ 
+[Spracherkennung](tutorials/spracherkennung.html)
 
 
 ...
 
-[rechnen](tutorials/rechnen.html)
+[Grammatiken](tutorials/grammatiken.html)
 
 
 ...
