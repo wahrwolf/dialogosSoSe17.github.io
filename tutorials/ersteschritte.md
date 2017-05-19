@@ -3,7 +3,7 @@ layout: page
 ---
 # Tutorials
 ---
-[Installation](/download.html) &nbsp;&nbsp; Erste Schritte &nbsp;&nbsp; [Sprachsynthese](sprachsynthese.html) &nbsp;&nbsp; [Spracherkennung](spracherkennung.html) &nbsp;&nbsp; [Grammatiken](grammatiken.html) &nbsp;&nbsp; [Externe Programme](extprogramme.html)
+[Einleitung](/tutorials.html) &nbsp;&nbsp; Erste Schritte &nbsp;&nbsp; [Sprachsynthese](sprachsynthese.html) &nbsp;&nbsp; [Spracherkennung](spracherkennung.html) &nbsp;&nbsp; [Grammatiken](grammatiken.html) &nbsp;&nbsp; [Externe Programme](extprogramme.html)
 
 ---
 &nbsp;
