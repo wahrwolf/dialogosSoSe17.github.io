@@ -17,21 +17,14 @@ An jedem Sprachausgabe-Knoten kann gesondert ausgewählt werden, mit welcher Sti
 
 Um die Stimme nicht für jeden Sprachausgabe-Knoten einzeln einstellen zu müssen, kann eine Standardstimme für den gesamten Dialog gesetzt werden. Wähle hierzu im Menü *Dialog* (oberhalb der Symbolleiste)  *Sprachausgabe* aus. Dann öffnet sich ein Fenster, in welchem die Standardstimme festgelegt werden kann. [Abbildung zu Dialogeinstellungen für die Sprachausgabe?] [TODO Beschreibung?] Alle nachfolgend erstellten Sprachausgabe-Knoten haben nun als Stimme die *Standardstimme*. Diese Einstellung kann natürlich an ausgewählten Knoten verändert werden.
 
-<!--
-Auf die gleiche Art und Weise lässt sich eine Standardstimme für die Spracheingabe-Knoten bestimmen. Im Menü *Dialog* muss hierfür der Befehl *Spracherkennung* ausgewählt werden. [TODO]
--->
+## (korrekte) Aussprache / Sprache
+Bei der Auswahl einer Stimme muss beachtet werden, dass für die korrekte Aussprache eines deutschen Wortes oder Satzes auch eine deutsche Stimme gewählt werden muss. Für englische Wörter und Sätze entsprechend eine englische Stimme. Um vor Ausführung des Dialoges die Aussprache eines Wortes oder Satzes probeweise anzuhören, genügt ein einfacher Klick auf die Schaltfläche *Anhören*.
 
-## (korrekte) Aussprache
-TODO
+Beispiel: Um den Satz "Ich hör am liebsten Take That und Spice Girls!" richtig aussprechen zu lassen, kann man vier Sprachausgabe-Boxen nutzen, welche jeweils einen Teil des Satzes, in der entsprechenden Sprache, ausgeben.  
+Konkret: In die erste Sprachausgabe-Box gebt ihr unter Ausgabe "Ich hör am liebsten" ein und wählt eine deutsche Stimme aus. Diese verbindet ihr mit der zweiten Sprachausgabe-Box in welche ihr "Take That" eingebt und diesmal eine englische Stimme einstellt. Analog fahrt ihr mit dem Verfahren fort. Für "und" wählt ihr wieder die deutsche Stimme, für "Spice Girls" eine englische. Sind die vier Boxen nacheinander miteinander verbunden und die Letzte mit einem Ende-Symbol, sollte der Satz korrekt ausgesprochen werden.
 
-### Sprache
-TODO
-
-### Abkürzungen
-TODO
-
-### Zahlen
-TODO
+### Abkürzungen / Zahlen
+Namen, Zahlwörter (1998, 1. , 2. ...), Abkürzungen u.a. werden evtl. von unterschiedlichen Stimmen unterschiedlich ausgesprochen. Hier heißt die Devise: Immer vorher ausprobieren!
 
 ## Sprechmelodie
 TODO

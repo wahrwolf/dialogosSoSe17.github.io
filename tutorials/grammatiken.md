@@ -10,6 +10,8 @@ layout: page
 
 TODO Reihenfolgen / Inhalt
 
+Unter Ausgabe-Typ kann zwischen der Ausgabe als einfacher Text oder als komplexer Ausdruck gewählt werden (hierbei wird der Text als Formel interpretiert). [TODO]
+
 ## Variablen
 TODO
 
