@@ -1,9 +1,2 @@
 geändert: 
-* "Box" überall durch "Knoten" ersetzt
-* Sprachserkennung bearbeitet
-** Absatz in der Einleitung hinzugefügt 
-** kleinere Annotationen
-* Grammatiken bearbeitet
-** Kommentar eingefügt, dass zwischen Sprachein-/ausgabe differenziert werden soll
-** Inhalt eingefügt
-** Überschrift korrigiert
+* externeProgramme
