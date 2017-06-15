@@ -15,7 +15,7 @@ TODO
 
 ## Externe Programme anbinden
 * Unter *Dialog*, *Geräte* wird das Externe Programm hinzugefügt 
-
+Dummy-Seite
 ## Ausgabe-Knoten
 * wird im Dialogablauf ein Ausgabe-Konten erreicht, schickt DialogOS die entsprechende Mitteilung als Skript-Ausdruck an das gewählte Programm
 
